@@ -6,10 +6,15 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
-// 10250번
-
+// 2839 번 .... 도전 중
 int main(void)
 {
- 
+    int weight = 0;
+
+    scanf("%d", &weight);
+
+    // 최대 공약수를 찾는 문제 (안 나눠지면 -1 출력)
+
+
     return 0;
 }
